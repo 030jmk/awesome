@@ -1,10 +1,17 @@
 # Another Creative Tech Awesome List
 
 
-## Applications
+## Applications (Desktop)
 - [Blender](https://www.blender.org/) - free and open-source 3D computer graphics software tool
 - [TouchDesigner](https://derivative.ca/) - node-based visual programming language for real-time interactive multimedia content
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - color grading, color correction, visual effects, and audio post-production video editing application
+- [CapCut](https://www.capcut.com/s/Zs8MCeGFL/) - short-form video editing app developed by ByteDance
+- [Meta Spark Studio](https://spark.meta.com/) - AR development tool developed by Meta and used to make Instagram filters.
+- [effect house](https://effecthouse.tiktok.com/) - AR tool that makes it easy to create, publish, and share high-quality augmented effects for TikTok.
+- [AnkerMake Studio](https://www.ankermake.com/eu-en/ankermake-studio) - slicer and remote printing control for AnkerMake 3D printers
+
+## Applications (Mobile/iOS)
+- [Blackmagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Blackmagic’s digital film camera controls and image processing.
 
 ## Web Apps
 - [Photopea](https://www.photopea.com/) - Web-based photo and graphics editor
