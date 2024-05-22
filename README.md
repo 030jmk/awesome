@@ -9,13 +9,17 @@
 - [Meta Spark Studio](https://spark.meta.com/) - AR development tool developed by Meta and used to make Instagram filters.
 - [effect house](https://effecthouse.tiktok.com/) - AR tool that makes it easy to create, publish, and share high-quality augmented effects for TikTok.
 - [AnkerMake Studio](https://www.ankermake.com/eu-en/ankermake-studio) - slicer and remote printing control for AnkerMake 3D printers
+- [Visual Studio Code](https://code.visualstudio.com/download) - code editor developed by Microsoft
+- [Easy Photogrammetry](https://apps.apple.com/us/app/easy-photogrammetry/id1601275382?mt=12) - Drag and drop an image folder, and let the app create the 3D model
 
 ## Applications (Mobile/iOS)
 - [Blackmagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) - Blackmagic’s digital film camera controls and image processing.
 
+
 ## Web Apps
 - [Photopea](https://www.photopea.com/) - Web-based photo and graphics editor
 - [MakerCase](https://en.makercase.com/#/) - Web-based application for designing boxes or project cases for laser cutters and CNC routers.
+- [Visual Studio Code](https://vscode.dev/) - Visual Studio Code on web
 
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
