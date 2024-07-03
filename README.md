@@ -24,6 +24,8 @@
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
 - [Framer](https://www.framer.com/) - Design tool and a web builder
+- [MyOSMatic](https://print.get-map.org/) - Generate and export own maps based on OSM
+-
 
 
 ## AI things
