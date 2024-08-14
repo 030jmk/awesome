@@ -20,12 +20,12 @@
 - [Photopea](https://www.photopea.com/) - Web-based photo and graphics editor
 - [MakerCase](https://en.makercase.com/#/) - Web-based application for designing boxes or project cases for laser cutters and CNC routers.
 - [Visual Studio Code](https://vscode.dev/) - Visual Studio Code on web
+- [oTranscribe](https://otranscribe.com/) - A free HTML5 app to take the pain out of transcribing interviews
 
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
 - [Framer](https://www.framer.com/) - Design tool and a web builder
 - [MyOSMatic](https://print.get-map.org/) - Generate and export own maps based on OSM
--
 
 
 ## AI things
