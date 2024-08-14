@@ -32,6 +32,8 @@
 - [LM Studio](https://lmstudio.ai/) - Desktop app for experimenting with local and open-source Large Language Models (LLMs)
 - [PartyRock.aws](https://partyrock.aws/) - An Amazon Bedrock playground
 - [GOODY-2](https://www.goody2.ai/chat) - The most responsible ChatBot that won't answer anything that could possibly be construed as controversial or problematic
+- [Segment Anything 2 Demo](https://sam2.metademolab.com/) - Create video cutouts and effects for demo purposes
+
 
 ## Image Creation
 - [Draw Things](https://drawthings.ai/) - AI-assisted image generation application based on StableDiffusion
