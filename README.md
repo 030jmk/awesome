@@ -21,6 +21,7 @@
 - [MakerCase](https://en.makercase.com/#/) - Web-based application for designing boxes or project cases for laser cutters and CNC routers.
 - [Visual Studio Code](https://vscode.dev/) - Visual Studio Code on web
 - [oTranscribe](https://otranscribe.com/) - A free HTML5 app to take the pain out of transcribing interviews
+- [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis 
 
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
