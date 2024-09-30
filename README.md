@@ -22,7 +22,7 @@
 - [Visual Studio Code](https://vscode.dev/) - Visual Studio Code on web
 - [oTranscribe](https://otranscribe.com/) - A free HTML5 app to take the pain out of transcribing interviews
 - [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis
-- [CyberChef](https://ezmp3.cc/) - Youtube to mp3 conversion
+- [ezmp3](https://ezmp3.cc/) - Youtube to mp3 conversion
 
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
