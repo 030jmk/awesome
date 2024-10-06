@@ -24,6 +24,9 @@
 - [CyberChef](https://gchq.github.io/CyberChef/) - web app for encryption, encoding, compression and data analysis
 - [ezmp3](https://ezmp3.cc/) - Youtube to mp3 conversion
 
+## Repositories
+- [SVG Repo](https://www.svgrepo.com/) - Open-licensed SVG Vector and Icons
+
 ## Visualizations
 - [MermaidJS](https://mermaid.live/) - diagramming and charting tool that uses Markdown-inspired text definitions
 - [Framer](https://www.framer.com/) - Design tool and a web builder
