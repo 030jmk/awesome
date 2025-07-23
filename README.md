@@ -44,6 +44,7 @@
 ## Image Creation
 - [Draw Things](https://drawthings.ai/) - AI-assisted image generation application based on StableDiffusion
 - [QR Code AI Art Generator](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator) - use a QR code image as the initial image and the control image, which allows you to generate QR Codes that blend in very naturally with your provided prompt
+- [QR Code Generator](https://qrframe.kylezhe.ng/) - an almost normal QR code generator with some cool visual extras
 
 ## Visual Inspo
 - [Curated Design](https://www.curated.design/) - Web design inspiration catalog
